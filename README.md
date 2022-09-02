@@ -8,8 +8,10 @@
 - ![](https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white)
 - ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
-## buenos dias
+## Buenos dias Grupo
 - salve sou o otavio  	:skull:
-- idade: 45/3   skull_and_crossbones:
+- idade: 15   :skull_and_crossbones:
 - meu email e otavio.tanaka@escola.pr.gov.br   :space_invader:
 - e isso tudo boa tarde
+- ![](https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white)
+- ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
